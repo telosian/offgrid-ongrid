@@ -1,2 +1,4 @@
 # offgrid-ongrid
-Going offgrid while ongrid
+
+Going off-grid while on-grid
+
