@@ -35,16 +35,16 @@ Add bran cereal or extra beans to hit fiber goals. Add more oil/peanut butter if
 
 Rough estimates for 30 days:
 
-| Food | Monthly Amount | Notes |
-|------|---------------|-------|
-| Rice | 12 lb | Staple carb source |
-| Dried beans/lentils | 8 lb | Main protein + fiber |
-| Oats | 5 lb | Breakfast base |
-| Pasta | 4 lb | Dinner variety |
-| Peanut butter | 3 jars (48oz) | Fat + protein |
-| Vegetable oil | 1 gal | Cooking fat + calories |
-| Powdered milk | 2 lb | Calcium + protein |
-| Dried fruit | 2 lb | Vitamins + quick energy |
-| Canned tuna/chicken | 15 cans | Protein |
-| Bran/fiber cereal | 2 lb | Fiber |
-| Water | 90 gal | 3L/day drinking + cooking |
+| Food | Monthly Amount | Suggested Brand | Link |
+|------|---------------|-----------------|------|
+| Rice | 12 lb | Iberia Jasmine Rice | [search](https://www.amazon.com/s?k=Iberia+jasmine+rice+25+lb) |
+| Dried beans/lentils | 8 lb | Iberia / Anthony's | [search](https://www.amazon.com/s?k=dried+beans+lentils+bulk) |
+| Oats | 5 lb | Bob's Red Mill | [search](https://www.amazon.com/s?k=Bobs+Red+Mill+rolled+oats+bulk) |
+| Pasta | 4 lb | Barilla | [search](https://www.amazon.com/s?k=Barilla+spaghetti+bulk+pack) |
+| Peanut butter | 3 jars (48oz) | Jif Creamy | [search](https://www.amazon.com/s?k=Jif+creamy+peanut+butter+48+oz) |
+| Vegetable oil | 1 gal | Crisco | [search](https://www.amazon.com/s?k=Crisco+vegetable+oil+1+gallon) |
+| Powdered milk | 2 lb | Nido | [search](https://www.amazon.com/s?k=Nido+whole+milk+powder) |
+| Dried fruit | 2 lb | Sun-Maid | [search](https://www.amazon.com/s?k=Sun+Maid+dried+fruit+variety) |
+| Canned tuna/chicken | 15 cans | StarKist / Kirkland | [search](https://www.amazon.com/s?k=StarKist+chunk+light+tuna+bulk) |
+| Bran/fiber cereal | 2 lb | Kellogg's All-Bran | [search](https://www.amazon.com/s?k=Kelloggs+All+Bran+cereal) |
+| Water | 90 gal | 5-gal collapsible containers | [search](https://www.amazon.com/s?k=collapsible+water+container+5+gallon+BPA+free) |
