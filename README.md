@@ -103,6 +103,7 @@ You need about **3 liters (¾ gallon) per person per day** for drinking and cook
 | Adapter/regulator for 25-gal propane tank | GasOne | [search](https://www.amazon.com/s?k=GasOne+propane+adapter+hose+1lb+to+20lb) |
 | 25-gallon propane tank | Manchester | [search](https://www.amazon.com/s?k=25+gallon+propane+tank) |
 | Lighter / waterproof matches | UCO Stormproof | [search](https://www.amazon.com/s?k=UCO+stormproof+matches) |
+| Pressure cooker (saves fuel, cooks beans fast) | Presto 6 qt | [search](https://www.amazon.com/s?k=Presto+6+quart+pressure+cooker) |
 | Cast iron skillet | Lodge 10.25" | [search](https://www.amazon.com/s?k=Lodge+cast+iron+skillet+10.25) |
 | Stock pot | Granite Ware 12 qt | [search](https://www.amazon.com/s?k=Granite+Ware+stock+pot+12+quart) |
 
@@ -117,3 +118,50 @@ You need about **3 liters (¾ gallon) per person per day** for drinking and cook
 | Trash bags | Glad ForceFlex 13 gal | [search](https://www.amazon.com/s?k=Glad+ForceFlexPlus+trash+bags+13+gallon) |
 | Zip-lock bags (assorted sizes) | Ziploc | [search](https://www.amazon.com/s?k=Ziploc+bags+variety+pack+gallon+quart) |
 | Aluminum foil | Reynolds Wrap Heavy Duty | [search](https://www.amazon.com/s?k=Reynolds+Wrap+heavy+duty+aluminum+foil) |
+
+---
+
+## Communications
+
+| Item | Suggested Brand | Link |
+|------|-----------------|------|
+| Meshtastic radio (off-grid mesh texting, no cell/internet) | Heltec V3 | [search](https://www.amazon.com/s?k=Heltec+V3+LoRa+Meshtastic) |
+| Hand-crank / solar AM/FM/NOAA radio | Midland ER310 | [search](https://www.amazon.com/s?k=Midland+ER310+emergency+crank+radio) |
+| FRS walkie-talkies (no license needed) | Midland X-Talker | [search](https://www.amazon.com/s?k=Midland+X+Talker+walkie+talkie) |
+
+---
+
+## Light & Power
+
+| Item | Suggested Brand | Link |
+|------|-----------------|------|
+| LED headlamp | Black Diamond Spot | [search](https://www.amazon.com/s?k=Black+Diamond+Spot+headlamp) |
+| LED lantern | Goal Zero Lighthouse | [search](https://www.amazon.com/s?k=Goal+Zero+Lighthouse+lantern) |
+| Portable solar panel | Anker 24W | [search](https://www.amazon.com/s?k=Anker+24W+solar+panel+charger) |
+| Battery bank | Anker 20000mAh | [search](https://www.amazon.com/s?k=Anker+20000mAh+power+bank) |
+| Batteries (AA, AAA) | Energizer Lithium | [search](https://www.amazon.com/s?k=Energizer+Ultimate+Lithium+AA+AAA) |
+
+---
+
+## First Aid & Hygiene
+
+| Item | Suggested Brand | Link |
+|------|-----------------|------|
+| First aid kit | Adventure Medical Kits | [search](https://www.amazon.com/s?k=Adventure+Medical+Kits+first+aid) |
+| Prescription meds | — keep 30-day extra supply | |
+| Ibuprofen / acetaminophen | Advil / Tylenol | [search](https://www.amazon.com/s?k=Advil+Tylenol+bulk+bottles) |
+| Hand sanitizer | Purell | [search](https://www.amazon.com/s?k=Purell+hand+sanitizer+bulk) |
+| Unscented bleach (water purification + sanitation) | Clorox | [search](https://www.amazon.com/s?k=Clorox+regular+unscented+bleach) |
+| Toilet paper | — stock extra | |
+
+---
+
+## Tools & Misc
+
+| Item | Suggested Brand | Link |
+|------|-----------------|------|
+| Multi-tool | Leatherman Wave+ | [search](https://www.amazon.com/s?k=Leatherman+Wave+plus+multi+tool) |
+| Duct tape | Gorilla Tape | [search](https://www.amazon.com/s?k=Gorilla+duct+tape) |
+| Paracord (550, 100 ft) | TOUGH-GRID | [search](https://www.amazon.com/s?k=TOUGH+GRID+550+paracord+100+ft) |
+| Tarp (heavy-duty) | Dry Top | [search](https://www.amazon.com/s?k=Dry+Top+heavy+duty+tarp) |
+| Work gloves | Mechanix Wear | [search](https://www.amazon.com/s?k=Mechanix+Wear+work+gloves) |
