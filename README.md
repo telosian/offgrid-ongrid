@@ -1,6 +1,6 @@
 # offgrid-ongrid
 
-A practical guide to emergency food independence — staying fed when the grid goes down, even if you never leave the house.
+It would be ideal if everyone could live off-grid, with solar power, water harvesting and recycling, food generation - but that is difficult and expensive. So, start going offgrid, while still being ongrid. This will help in emergencies also, like if the supply chain gets disrupted. 
 
 ## How Much Does One Person Need?
 
